@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @LuisMarin-dev
-- 👀 I’m interested in programming, science & tech in general.
-- 🌱 I’m currently learning JQuery, Python & C#.
+- 👋 Hi, I’m Luis Marín or @LuisMarin-dev
+- 👀 I’m passionate about programming and interested in science, tech in general.
+- 🌱 I’m currently learning React.js, Bootstrap 5, Git, C++ and more.
 - 💞️ I’m looking to collaborate on front-end web development projects and challenges that take me out of my comfort zone.
 - 📫 How to reach me: You can reach me via email at luis.marinprog@gmail.com.
 
