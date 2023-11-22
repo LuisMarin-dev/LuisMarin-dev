@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Luis Marín 🐙
-- 👀 I’m passionate about programming and interested in science and tech (in general).
+- 👀 I’m passionate about programming and interested in science and tech in general.
 - 🌱 I’m currently learning React.js, Node.js, Python, and other cool stuff you'll be seeing in my repos.
 - 💞️ I’m looking to collaborate on many web development projects.
 - 💪 Always on the look for a challenge!
