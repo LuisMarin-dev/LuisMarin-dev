@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning React.js, Node.js, Python, and other cool stuff you'll be seeing in my repos.
 - 💞️ I’m looking to collaborate on many web development projects.
 - 💪 Always on the look for a challenge!
-- 📫 You can reach me via email at luis.marinprog@gmail.com.
 
 <!---
 LuisMarin-dev/LuisMarin-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
